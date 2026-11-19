@@ -15,6 +15,7 @@ What is the average water temperatures measured in the field study
 ## Requirements
 
 - Python 3 (no additional libraries are needed)
+- No further action was needed. 
 
 ##Expected results
 - Average mean: 18.25C
